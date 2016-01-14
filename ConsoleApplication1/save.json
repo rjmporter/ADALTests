@@ -1,0 +1,37 @@
+{
+    "@odata.context": "https://api.office.com/discovery/v1.0/me/$metadata#allServices",
+    "value": [
+        {
+            "@odata.type": "#Microsoft.DiscoveryServices.ServiceInfo",
+            "@odata.id": "https://api.office.com/discovery/v1.0/me/services('MyFiles@O365_SHAREPOINT')",
+            "@odata.editLink": "services('MyFiles@O365_SHAREPOINT')",
+            "capability": "MyFiles",
+            "entityKey": "MyFiles@O365_SHAREPOINT",
+            "providerId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "providerName": "Microsoft",
+            "serviceAccountType": 2,
+            "serviceApiVersion": "v1.0",
+            "serviceEndpointUri": "https://offtechsmith-my.sharepoint.com/_api/v1.0/me",
+            "serviceId": "O365_SHAREPOINT",
+            "serviceName": "Office 365 SharePoint",
+            "serviceResourceId": "https://offtechsmith-my.sharepoint.com/"
+        },
+        {
+            "@odata.type": "#Microsoft.DiscoveryServices.ServiceInfo",
+            "@odata.id": "https://api.office.com/discovery/v1.0/me/services('RootSite@O365_SHAREPOINT')",
+            "@odata.editLink": "services('RootSite@O365_SHAREPOINT')",
+            "capability": "RootSite",
+            "entityKey": "RootSite@O365_SHAREPOINT",
+            "providerId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "providerName": "Microsoft",
+            "serviceAccountType": 2,
+            "serviceApiVersion": "v1.0",
+            "serviceEndpointUri": "https://offtechsmith.sharepoint.com/_api",
+            "serviceId": "O365_SHAREPOINT",
+            "serviceName": "Office 365 SharePoint",
+            "serviceResourceId": "https://offtechsmith.sharepoint.com/"
+        }
+    ],
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1uQ19WWmNBVGZNNXBPWWlKSE1iYTlnb0VLWSIsImtpZCI6Ik1uQ19WWmNBVGZNNXBPWWlKSE1iYTlnb0VLWSJ9.eyJhdWQiOiJodHRwczovL2FwaS5vZmZpY2UuY29tL2Rpc2NvdmVyeS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC83N2QzMDk2My03ODcyLTRkMTEtOTM3NC0yYzJiMmExMmFkNjUvIiwiaWF0IjoxNDUyNzM0OTkxLCJuYmYiOjE0NTI3MzQ5OTEsImV4cCI6MTQ1MjczODg5MSwiYWNyIjoiMSIsImFtciI6WyJwd2QiXSwiYXBwaWQiOiI5NWQ5ZTU1NS01YmNlLTQ2YzMtYjQxNC02YjQwYzhjNWQxYjciLCJhcHBpZGFjciI6IjAiLCJmYW1pbHlfbmFtZSI6IlBvcnRlciIsImdpdmVuX25hbWUiOiJSb3NzIiwiaXBhZGRyIjoiNzUuMTI5LjE3OS4xMSIsIm5hbWUiOiJQb3J0ZXIsIFJvc3MiLCJvaWQiOiJjZTMwMjM2ZS1lZGE0LTQ3YWYtOTU2OC0zMWE5ZGFmZmQ0ZmUiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtNjk3Mzc5MTktMTY4OTU5MjMyMy0xNDE1NzEzNzIyLTYzMjIiLCJwdWlkIjoiMTAwMzNGRkY4NUNERjFBMyIsInNjcCI6IkFsbFNpdGVzLlJlYWQgTXlGaWxlcy5SZWFkIiwic3ViIjoiVS1pVWFvN2FyRjVUYVNINHoyaFV2c0k3djNWcjllTnUtVjVJYzg1RXY1YyIsInRpZCI6Ijc3ZDMwOTYzLTc4NzItNGQxMS05Mzc0LTJjMmIyYTEyYWQ2NSIsInVuaXF1ZV9uYW1lIjoici5wb3J0ZXJAdGVjaHNtaXRoLmNvbSIsInVwbiI6InIucG9ydGVyQHRlY2hzbWl0aC5jb20iLCJ2ZXIiOiIxLjAifQ.Xgpy2zJajc0NmdKxT8Sjp0uLk2AmABhnW9QrhtnkLjjcRHY85pjxumPCe7z5YJiVkot4zmxL11MQFArNsLSM2KBXCKKJa4kKe9930ALvqriF2_Y-w1CLxzZ3bM7chwDf_XPnSorUWxMrqCwHYxTMpvAabLWg3XhOttFeMmXxPTB68WmfQQ2ZNfISdrfvChEMV08lJqYJMKOfFmDNrstLaZGAVW9fmC2jkNyHH33VIGm-1R4jWJ8xz1LnteQWcyD8Lj_q0mCRK1RL2SuLaupoV4dE5PHFxFLH-3k_4V9cHR0hUd5cnzsB4OH4n54jfkX0j4uqfz14Mq6AdKvaZLsOaQ",
+    "idtoken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiI5NWQ5ZTU1NS01YmNlLTQ2YzMtYjQxNC02YjQwYzhjNWQxYjciLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC83N2QzMDk2My03ODcyLTRkMTEtOTM3NC0yYzJiMmExMmFkNjUvIiwiaWF0IjoxNDUyNzM1MTUxLCJuYmYiOjE0NTI3MzUxNTEsImV4cCI6MTQ1MjczOTA1MSwiYW1yIjpbInB3ZCJdLCJmYW1pbHlfbmFtZSI6IlBvcnRlciIsImdpdmVuX25hbWUiOiJSb3NzIiwibmFtZSI6IlBvcnRlciwgUm9zcyIsIm9pZCI6ImNlMzAyMzZlLWVkYTQtNDdhZi05NTY4LTMxYTlkYWZmZDRmZSIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS02OTczNzkxOS0xNjg5NTkyMzIzLTE0MTU3MTM3MjItNjMyMiIsInN1YiI6IjhmbjZJQVZ3dFJqUVVCZWhRcDNMb3FxRnJzYU1BTlBJSXo4NGQycXpjRm8iLCJ0aWQiOiI3N2QzMDk2My03ODcyLTRkMTEtOTM3NC0yYzJiMmExMmFkNjUiLCJ1bmlxdWVfbmFtZSI6InIucG9ydGVyQHRlY2hzbWl0aC5jb20iLCJ1cG4iOiJyLnBvcnRlckB0ZWNoc21pdGguY29tIiwidmVyIjoiMS4wIn0."
+}
